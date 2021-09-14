@@ -150,14 +150,17 @@ body {
 }
 #about:hover {
     background:rgba(57,225,20,1);
+    text-color: rgba(0,0,0,1);
     cursor:pointer;
 }
 #work:hover {
     background:rgba(57,225,20,1);
+    text-color: rgba(0,0,0,1);
     cursor:pointer;
 }
 #contact:hover {
     background:rgba(57,225,20,1);
+    text-color: rgba(0,0,0,1);
     cursor:pointer;
 }
 #middle table {
