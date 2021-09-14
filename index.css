@@ -149,15 +149,15 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgba(0,0,0,0.9);
+    background:rgba(57,225,20,1);
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(0,0,0,0.9);
+    background:rgba(57,225,20,1);
     cursor:pointer;
 }
 #contact:hover {
-    background:rgba(0,0,0,0.9);
+    background:rgba(57,225,20,1);
     cursor:pointer;
 }
 #middle table {
